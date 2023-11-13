@@ -1,0 +1,14 @@
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\midtermLEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\midtermLEX.AssemblyInfoInputs.cache
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\midtermLEX.AssemblyInfo.cs
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\midtermLEX.csproj.CoreCompileInputs.cache
+C:\Users\Biene\Desktop\midtermLEX\bin\Debug\net7.0\midtermLEX.exe
+C:\Users\Biene\Desktop\midtermLEX\bin\Debug\net7.0\midtermLEX.deps.json
+C:\Users\Biene\Desktop\midtermLEX\bin\Debug\net7.0\midtermLEX.runtimeconfig.json
+C:\Users\Biene\Desktop\midtermLEX\bin\Debug\net7.0\midtermLEX.dll
+C:\Users\Biene\Desktop\midtermLEX\bin\Debug\net7.0\midtermLEX.pdb
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\midtermLEX.dll
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\refint\midtermLEX.dll
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\midtermLEX.pdb
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\midtermLEX.genruntimeconfig.cache
+C:\Users\Biene\Desktop\midtermLEX\obj\Debug\net7.0\ref\midtermLEX.dll
